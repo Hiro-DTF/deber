@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "nuevo-proyecto",
+    "slug": "nuevo-proyecto",
+    "version": "1.0.1",
+    "orientation": "landscape",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/new-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/new-favicon.png"
+    }
+  }
+}
